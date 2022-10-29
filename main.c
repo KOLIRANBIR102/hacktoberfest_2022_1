@@ -11,5 +11,11 @@ printf("%d",i);
    printf("%d",j);
    
  }
+  
+  for(int k=0;k<5;k++){
+  
+   printf("%d",k);
+   
+ }
 
 }
